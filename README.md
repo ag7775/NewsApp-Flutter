@@ -1,6 +1,6 @@
-# newsapp_flutter
+# NewsApp Flutter
 
-A new Flutter application.
+A new flutter news application uses Json parsing to parse the new api data and display it in UI elements.
 
 ## Getting Started
 
